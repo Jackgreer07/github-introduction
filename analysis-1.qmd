@@ -3,3 +3,6 @@ title: "Analysis 1"
 author: "Jack Greer"
 format: html
 ---
+
+Jack Greer is a data maestro!
+
